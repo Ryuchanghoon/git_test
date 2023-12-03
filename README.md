@@ -59,5 +59,3 @@ git push -f ==> git이랑 github 내용 다를 때, 강제 커밋.
 </br>
 </br>
 </br>
-
-흐름 잘 기억하자.
